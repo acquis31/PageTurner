@@ -1,0 +1,6 @@
+{
+  "name": "Book Review & Current Reads Tracker",
+  "description": "An elegant, distraction-free application to log currently reading books, track page-by-page progress, and write beautifully styled reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
